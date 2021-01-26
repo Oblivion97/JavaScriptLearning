@@ -47,9 +47,3 @@ function CalcAge(BirthYear) {
 }
 
 console.log(CalcAge(1997));
-
-//test
-<<<<<<< HEAD
-//test
-=======
->>>>>>> cf478a369354577931a5f7a5542bb5e4298149e1
